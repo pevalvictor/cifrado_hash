@@ -1,4 +1,4 @@
 cryptography
 pycryptodome
 pip install flask
-install pycryptodome --force-reinstall
+install pycryptodome 
