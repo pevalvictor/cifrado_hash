@@ -1,4 +1,3 @@
-cryptography
+flask
 pycryptodome
-pip install flask
-install pycryptodome 
+cryptography
